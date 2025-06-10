@@ -4,7 +4,7 @@
 This powerBi project analyzes a dataset f students' mental health, focusing on depression, anxiety, and panic attacks. The dataset consists of 10 columns, and 3 additional measures were created to gain deeper insights.
 
 <h3>Objectives</h3>
-The objective of my Powerbi project was to address the following questions:
+The objective of my Powerbi project was to address the following questions:<br>
 1. What is the total number of students.
 2. The count of depression by marital status
 3. The rate of panic attak by specialists consultation
