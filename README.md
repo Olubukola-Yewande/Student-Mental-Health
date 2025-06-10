@@ -15,10 +15,12 @@ The objective of my Powerbi project was to address the following questions:<br>
 
 <h3>Tool Used</h3>
 For this project, I leveraged on a powerful tool in data analytics to guide my analysis: <br>
-__PowerQuery__: I used powerquery for data transformation, cleaning and manipulation. <br>
+
+# Powerquery: I used powerquery for data transformation, cleaning and manipulation. <br>
 PowerBi: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
 
 
 <h3>The Analysis</h3>
 
 
+# powerbi
