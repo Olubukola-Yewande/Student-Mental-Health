@@ -40,7 +40,7 @@ This report shows the count of students experiencing depression, grouped by thei
 6. Count of anxiety by course.<br>
 This analysis provides the count of students experiencing anxiety, grouped by their course. I calculated the count of anxiety by course. I put the count of anxiety on the X axis, and put course on Y axis.<br>
 
-7. Count of anxiety by current year.<br>
+7. **Count of anxiety by current year.**<br>
 This report displays the count of students experiencing anxiety, grouped by the current year.
 
 
