@@ -45,5 +45,5 @@ This report displays the count of students experiencing anxiety, grouped by the 
 
 
 <h3>Summary of finding</h3>
-* The insights drawn from this analysis is that students who are unmarried are battling with depression more than students that are maried. 16 married students are depressed while 85 unmarried students are depressed. From this insight, we can see that depression among students is not caused by married as just few married students are depressed.
-* From this analysis we can deduce that the panic attack rate amongst students varies by age. Students between the ages of 20-22 have lower panic attack. Students that are 18 years of age have the highest panic attack, followed by students 
+* The insights drawn from this analysis is that students who are unmarried are battling with depression more than students that are maried. 16 married students are depressed while 85 unmarried students are depressed. From this insight, we can see that depression among students is not caused by married as just few married students are depressed.<br>
+<br> * From this analysis we can deduce that the panic attack rate amongst students varies by age. Students between the ages of 20-22 have lower panic attack. Students that are 18 years of age have the highest panic attack, followed <br> by students 
