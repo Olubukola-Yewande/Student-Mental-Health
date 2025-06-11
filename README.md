@@ -21,6 +21,7 @@ PowerBi: I used this tool for data visualization. This tool makes it easy to cre
 
 
 <h3>The Analysis</h3>
+
 1. What is the total number of students? <br>
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
 
