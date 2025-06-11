@@ -13,7 +13,7 @@ The objective of my Powerbi project was to address the following questions:<br>
 6. Count of anxiety by course <br>
 7. Count of anxiety by current year <br>
 
-<h3>Tool Used</h3>
+<h3>Tools Used</h3>
 For this project, I leveraged on a powerful tool in data analytics to guide my analysis: <br>
 
 **Powerquery**: I used powerquery for data transformation, cleaning and manipulation. <br>
