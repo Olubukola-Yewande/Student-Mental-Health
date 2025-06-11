@@ -19,6 +19,14 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 **Powerquery**: I used powerquery for data transformation, cleaning and manipulation. <br>
 **PowerBi**: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
 
+<h3>Features</h3> (I will get back to this later)
+1.Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
+2.Filter and Search: Easily filter data by date, product category, region, and more.<br>
+3.Sales Trends: Analyze sales trends over time to make informed decisions.<br>
+4.Customer Insights: Gain insights into customer behavior and demographics.<br>
+5.Product Performance: Evaluate the performance of different product categories.<br>
+6.Export Data: Download selected data for further analysis.
+
 
 <h3>The Analysis</h3>
 
