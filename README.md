@@ -11,12 +11,12 @@ This project is a 3 page dashboard which are grouped in pages(depression, panic 
 The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like:<br>
 
 **1.** Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
-**2.** Could it be caused by thier courses? Are some courses responsible for this?<br>
+**2.** Could it be caused by their courses? Are some courses responsible for this?<br>
 **3.** Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
-**4.** Could it be Year of study? Does it mean that some certain level of courses are responsible for the mental health issues?<br>
+**4.** Could it be Year of study? Does it mean that some certain level of studies are responsible for the mental health issues?<br>
 **5.** Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
 **6.** Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
-**7.*8 Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
+**7.** Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
 
 
 <h3>TOOLS USED</h3>
@@ -45,11 +45,10 @@ There are larger percentage of students who are not experiencing depression and 
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
 
 **2. The count of Students with Depression by Marital Status.** <br>
-This analysis shows the counts of student experiencing depression, grouped by their marital status. In getting the count of depression by marital status, I did a count of depression by marital status. I put marital status on the Y axis and depression count on the X asxis.<br>
-For the depression count,  NO rate is higher than the YES rate. This means that, a larger percentage of students are not experiencing depression. With the NO rate I discovered that students who are not experiencing depression are the unmarried students, while for those who are experiencing depression, the unmarried students are higher than the married ones.<br> Therefore, marital is not responsible for the depression of students.
+This analysis shows that students who admit to not being depressed are all unmarried. For those who are depressed, only 16 are married while 19 are unmarried. The insight driven from this analysis is that marriage is not entirely responsible for depression among students.
 
 **3. Students with Depression by CGPA**<br>
-This report tries to show the depression rate by CGPA. I did a count of depression by CGPA.I put depression on the Y axis, while CPGA is on the X axis. There are different ranges of CGPA in the dataset which are 0 - 1.99, 2.00 - 2.49, 2.50 - 2.99, 3.00 - 3.449, 3.50 - 4.00. Students in the CGPA range of 0 - 2.49 were not expereincing depression at all. The depression rate started from 2.50 - 4.00. It got to its peak in 3.00 - 3.49.<br>
+This report tries to show the depression count by CGPA. I did a count of depression by CGPA. I put depression on the Y axis, while CPGA is on the X axis. There are different ranges of CGPA in the dataset which are 0 - 1.99, 2.00 - 2.49, 2.50 - 2.99, 3.00 - 3.49, 3.50 - 4.00. Students in the CGPA range of 0 - 2.49 are not experiencing depression at all. The depression rate started from 2.50 - 4.00. It got to its peak in 3.00 - 3.49.<br>
 The insights I got from this is that students whose CGPA are high are experiencing depression. Students in the CGPA range of 3.00 - 3.49 are experiencing more depression followed by those in the range of 3.50 - 4.00.
 
 **4. Students with Depression by Age.**<br>
