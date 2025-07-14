@@ -19,7 +19,7 @@ The objectives of this PowerBi project is to examine the mental health status of
 
 
 <h3>Tools Used</h3>
-For this project, I leveraged on a powerful tool in data analytics to guide my analysis: <br>
+For this project, I leveraged on a powerful tools in data analytics to guide my analysis: <br>
 
 **Powerquery**: I used powerquery for data transformation, cleaning and manipulation. <br>
 **PowerBi**: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
@@ -44,34 +44,53 @@ For the depression count,  NO rate is higher than the YES rate. This means that,
 
 **3. Students with Depression by CGPA**
 This report tries to show the depression rate by CGPA. I did a count of depression by CGPA.I put depression on the Y axis, while CPGA is on the X axis. There are different ranges of CGPA in the dataset which are 0 - 1.99, 2.00 - 2.49, 2.50 - 2.99, 3.00 - 3.449, 3.50 - 4.00. Students in the CGPA range of 0 - 2.49 were not expereincing depression at all. The depression rate started from 2.50 - 4.00. It got to its peak in 3.00 - 3.49.<br>
-The insights I got from this is that students whose CGPA are high are experiencing depression but students in the CGPA range of 3.00 - 3.49 are experiencing more depression followed by those in the range of 3.50 - 4.00.
+The insights I got from this is that students whose CGPA are high are experiencing depression. Students in the CGPA range of 3.00 - 3.49 are experiencing more depression followed by those in the range of 3.50 - 4.00.
 
-**4 Students with Depression by Age.**
+**4. Students with Depression by Age.**
 This report shows the count of students experiencing depression, grouped by their age. I calculated the count of depression by age. I put age on the X axis, while I put the count of depression on te Y axis.<br>
 The age range if from 18 to 24. Students who are 18 and 19 are experiencing more depression. The depression rate from 20 to 22 years is balanced. From age  23 to 24, the depression rate is high. 
 
-**5 Students with Depression by Course**
+**5. Students with Depression by Course**
 There are over 20 courses in the dataset. The insights gotten from this is that Engineering and BCS() has more depression rate comparared to other courses like Mathematics, Law etc.<br>
 This means that students who are in Engineering and BCS department are experiencing higher depression rate compared to other courses.
 
-**6 Stduents with Depression by Specialist Visits**
+**6. Stduents with Depression by Specialist Visits**
 Students who are not experiencing depression are not visiting a specialist. This is understandable because since they are not experiencing depression, there is no need for them to visit specialists.<br>
 From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
 
 <h3>Analysis and Insights for Panic Attack</h3><br>
 
-**1 Students with Panic Attack by Marital Status**
-From this analysis, I can deduce that those who do not have panic attack are mostly unmarried stduents as well as married students but the unmarried students are way more than the married students. Those who have panic attack are mostly the unmarried students and the married students but the unmarried students are more than the married students. In summary, marriage is not responsible for the panic attack in students.
+**1. Students with Panic Attack by Marital Status**
+From this analysis, I can deduce that those who do not have panic attack are mostly unmarried students as well as married students but the unmarried students are way more than the married students. Those who have panic attack are mostly the unmarried students and the married students but the unmarried students are more than the married students. In summary, marriage is not responsible for the panic attack in students.
 
-**2 Students  with panic attack by CGPA**
+**2. Students  with Panic Attack by CGPA**
+This report shows that students whose CGPA are in the range of 0 - 2.99 have lower panic attack rate. The panic attack is between the range of 3.00 - 4.00. This means that students whose CGPA are between 3.00 - 4.00 are experiencing panic attack.
+
+**3. Students with Panic Attack by Age**
+Students who are 18 and 19 are experiencing panic attack. Students who are in the age range of 20 - 22 have lower panic attack rate. Students who are in the age range of 23 and 24 has the highest panic attack rate. The insights gotten from this is that the younger students are experiencing panic attack for some reason like year of study, course etc. This is because many of them are knew to the system so they are yet to adjust.
+
+**4. Students with Panic Attack by Course**
+From this analysis, there are many courses in the dataset but it was filtered to the top 8 courses. BCS, Engineering, KOE, and BIT are the top 4 courses with high panic attack rate. Other courses have panic attack count but those top 4 are the leading. From this insight, we can see that students who are offering BCS, Engineering, KOE, and BIT are expeririencing panic attack.
+
+**5. Students with Panic Attack by Current Year of Study**
+Students who are in year 1 and year 3 have the highest panic attack count followed by year 2. Students in year 4 has the lowest panic attack count which is 1. The insight driven from this is that, students in year 1 have panic attack but in year 2, it reduces a bit. In year 3, it goes high but gets better in year 4.
+
+**6. Students with Panic Attack by Specialist Visits**
+For students who admitted that they did not have panic attack, a larger percentage of them did not visit a specialist, while a smaller percentage of them visited a specialist. For those who admitted to having panic attack, a larger percentage of them did not visit a specialist for help while a smaller percentage seeked for help.<br>
 
 
+<h3>Analysis and Insights for Anxiety</h3><br>
 
-**1. The rate of panic attack by specialists consultation.** <br>
-This report calculates the rate of panic attacks among students, categorized by their specialist visits. I calculated the count of panic attacks by specialist consultation.<br> From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
+There are larger percentage of students who are not experiencing anxiety and a lower percentage of students who are experiencing anxiety<br>
 
 
-**6. Count of anxiety by course.** <br>
+**1. Students with Anxiety by Marital Status**
+For students who are not experiencing anxiety, a larger portion of them are unmarried while the rest are married. For students who are experiencing anxiety, a larger portion of them are unmarried while the rest are married. The insights drawn from this is that marriage is not entirely responsible for anxiety.
+
+**2.Students with Anxiety by CGPA**
+Students with CGPA that ranges from 0 - 2.99 are not really experiencing anxiety. Only one student is experiencing anxiety in this CGPA range. However, students with CGPA that ranges from 3.00 to 4.00 are experiencing panic attack. Insights gotten from this is that the higher the CGPA, the higher the panic attack and the lower the CGPA, the lower panic attack.
+
+**6. Count of anxiety by course.** 
 This analysis provides the count of students experiencing anxiety, grouped by their course. I calculated the count of anxiety by course. I put the count of anxiety on the X axis, and put course on Y axis.<br>
 
 **7. Count of anxiety by current year.** <br>
