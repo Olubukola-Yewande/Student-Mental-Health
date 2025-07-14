@@ -1,17 +1,21 @@
 # Mental Health Analysis of Students
 
 <h3>Description</h3>
-This powerBi project analyzes a dataset f students' mental health, focusing on depression, anxiety, and panic attacks. The dataset consists of 10 columns, and 3 additional measures were created to gain deeper insights.
+This powerBi project analyzes a dataset of students' mental health, focusing on depression, anxiety, and panic attacks. The dataset consists of 10 columns, and 3 additional measures were created to gain deeper insights.<br>
+This project is a 3 page dashboard which are grouped in pages(depression, panic attcak, and anxiety).
+
 
 <h3>Objectives</h3>
-The objective of my Powerbi project was to address the following questions:<br>
-1. What is the total number of students.<br>
-2. The count of depression by marital status <br>
-3. The rate of panic attak by specialists consultation <br>
-4. The count of panic attack by age <br>
-5. Count of depression by age <br>
-6. Count of anxiety by course <br>
-7. Count of anxiety by current year <br>
+The objectives of this PowerBi project is to examine the mental health status of students.<br>
+This PowerBi project aims at addressing questions like;<br>
+Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
+Could it be caused by thier courses? Are some courses responsible for this?<br>
+Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
+Could it be Year of study? Does it mean that some certain level of courses are responsible for the mental health issues?<br>
+Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
+Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
+Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
+
 
 <h3>Tools Used</h3>
 For this project, I leveraged on a powerful tool in data analytics to guide my analysis: <br>
@@ -28,13 +32,15 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 6.Export Data: Download selected data for further analysis.
 
 
-<h3>The Analysis</h3>
+<h3>The Analysis</h3><br>
+On depression page, these are the following analysis:<br>
 
 **1. What is the total number of students?** <br>
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
 
-**2. The count of depression by marital status.** <br>
-This analysis shows the counts of student experiencing depression, grouped by their marital status. In getting the count of depression by marital status, I did a count of depression by marital status. I put marital status on the X axis and depression count on the Y asxis.<br>
+**2. The count of students with depression by marital status.** <br>
+This analysis shows the counts of student experiencing depression, grouped by their marital status. In getting the count of depression by marital status, I did a count of depression by marital status. I put marital status on the Y axis and depression count on the X asxis.<br>
+For the depression count,  NO rate is higher than the YES rate. This means that, a larger percentage of students are not experiencing depression. With this, I discovered that students who are not experiencing depression are the unmarried students, while for those who are experiencing depression, the unmarried students are higher than the married ones.<br> Therefore, marital is not responsible for the depression of students.
 
 **3. The rate of panic attack by specialists consultation.** <br>
 This report calculates the rate of panic attacks among students, categorized by the specialist consultant they consulted. I calculated the count of panic attacks by specialist consuktation.<br>
