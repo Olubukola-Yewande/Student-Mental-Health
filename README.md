@@ -8,6 +8,7 @@ This project is a 3 page dashboard which are grouped in pages(depression, panic 
 
 <h3>Objectives</h3>
 The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like;<br>
+
 1. Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
 2. Could it be caused by thier courses? Are some courses responsible for this?<br>
 3. Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
@@ -24,7 +25,7 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 **PowerBi**: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
 
 <h3>Features</h3> (I will get back to this later) <br> 
-**1.** Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
+1. Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
 2.Filter and Search: Easily filter data by date, product category, region, and more.<br>
 3.Sales Trends: Analyze sales trends over time to make informed decisions.<br>
 4.Customer Insights: Gain insights into customer behavior and demographics.<br>
