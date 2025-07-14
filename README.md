@@ -7,7 +7,7 @@ This project is a 3 page dashboard which are grouped in pages(depression, panic 
 
 
 <h3>Objectives</h3>
-The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like;<br>
+The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like:<br>
 
 1. Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
 2. Could it be caused by thier courses? Are some courses responsible for this?<br>
@@ -33,7 +33,7 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 6.Export Data: Download selected data for further analysis.
 
 
-<h3>The Analysis and Insights for Depression</h3><br>
+<h3>Analysis and Insights for Depression</h3><br>
 
 **1. What is the Total Number of Students?** <br>
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
@@ -58,14 +58,18 @@ This means that students who are in Engineering and BCS department are experienc
 Students who are not experiencing depression are not visiting a specialist. This is understandable because since they are not experiencing depression, there is no need for them to visit specialists.<br>
 From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
 
+<h3>Analysis and Insights for Panic Attack</h3><br>
+
+**1 Students with Panic Attack by Marital Status**
+From this analysis, I can deduce that those who do not have panic attack are mostly unmarried stduents as well as married students but the unmarried students are way more than the married students. Those who have panic attack are mostly the unmarried students and the married students but the unmarried students are more than the married students. In summary, marriage is not responsible for the panic attack in students.
+
+**2 Students  with panic attack by CGPA**
 
 
-**3. The rate of panic attack by specialists consultation.** <br>
+
+**1. The rate of panic attack by specialists consultation.** <br>
 This report calculates the rate of panic attacks among students, categorized by their specialist visits. I calculated the count of panic attacks by specialist consultation.<br> From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
 
-
-**5. Count of depression by age.** <br>
-This report shows the count of students experiencing depression, grouped by their age. I calculated the count of deprssion by age. I put age on the X axis, while I put the count of depression on te Y axis.<br>
 
 **6. Count of anxiety by course.** <br>
 This analysis provides the count of students experiencing anxiety, grouped by their course. I calculated the count of anxiety by course. I put the count of anxiety on the X axis, and put course on Y axis.<br>
