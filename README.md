@@ -2,19 +2,18 @@
 
 <h3>Description</h3>
 This powerBi project analyzes a dataset of students' mental health, focusing on depression, anxiety, and panic attacks. The dataset consists of 10 columns, and 3 additional measures were created to gain deeper insights.<br>
-This project is a 3 page dashboard which are grouped in pages(depression, panic attcak, and anxiety).
+This project is a 3 page dashboard which are grouped in pages(depression, panic attack, and anxiety).
 
 
 <h3>Objectives</h3>
-The objectives of this PowerBi project is to examine the mental health status of students.<br>
-This PowerBi project aims at addressing questions like;<br>
-Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
-Could it be caused by thier courses? Are some courses responsible for this?<br>
-Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
-Could it be Year of study? Does it mean that some certain level of courses are responsible for the mental health issues?<br>
-Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
-Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
-Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
+The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like;<br>
+1. Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
+2. Could it be caused by thier courses? Are some courses responsible for this?<br>
+3. Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
+4. Could it be Year of study? Does it mean that some certain level of courses are responsible for the mental health issues?<br>
+5. Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
+6. Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
+7. Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
 
 
 <h3>Tools Used</h3>
@@ -32,21 +31,36 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 6.Export Data: Download selected data for further analysis.
 
 
-<h3>The Analysis</h3><br>
-On depression page, these are the following analysis:<br>
+<h3>The Analysis for Depression</h3><br>
 
-**1. What is the total number of students?** <br>
+**1. What is the Total Number of Students?** <br>
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
 
-**2. The count of students with depression by marital status.** <br>
+**2. The count of Students with Depression by Marital Status.** <br>
 This analysis shows the counts of student experiencing depression, grouped by their marital status. In getting the count of depression by marital status, I did a count of depression by marital status. I put marital status on the Y axis and depression count on the X asxis.<br>
-For the depression count,  NO rate is higher than the YES rate. This means that, a larger percentage of students are not experiencing depression. With this, I discovered that students who are not experiencing depression are the unmarried students, while for those who are experiencing depression, the unmarried students are higher than the married ones.<br> Therefore, marital is not responsible for the depression of students.
+For the depression count,  NO rate is higher than the YES rate. This means that, a larger percentage of students are not experiencing depression. With the NO rate I discovered that students who are not experiencing depression are the unmarried students, while for those who are experiencing depression, the unmarried students are higher than the married ones.<br> Therefore, marital is not responsible for the depression of students.
+
+**3. Students with Depression by CGPA**
+This report tries to show the depression rate by CGPA. I did a count of depression by CGPA.I put depression on the Y axis, while CPGA is on the X axis. There are different ranges of CGPA in the dataset which are 0 - 1.99, 2.00 - 2.49, 2.50 - 2.99, 3.00 - 3.449, 3.50 - 4.00. Students in the CGPA range of 0 - 2.49 were not expereincing depression at all. The depression rate started from 2.50 - 4.00. It got to its peak in 3.00 - 3.49.<br>
+The insights I got from this is that students whose CGPA are high are experiencing depression but students in the CGPA range of 3.00 - 3.49 are experiencing more depression followed by those in the range of 3.50 - 4.00.
+
+**4 Students with Depression by Age.**
+This report shows the count of students experiencing depression, grouped by their age. I calculated the count of depression by age. I put age on the X axis, while I put the count of depression on te Y axis.<br>
+The age range if from 18 to 24. Students who are 18 and 19 are experiencing more depression. The depression rate from 20 to 22 years is balanced. From age  23 to 24, the depression rate is high. 
+
+**5 Students with Depression by Course**
+There are over 20 courses in the dataset. The insights gotten from this is that Engineering and BCS() has more depression rate comparared to other courses like Mathematics, Law etc.<br>
+This means that students who are in Engineering and BCS department are experiencing higher depression rate compared to other courses.
+
+**6 Stduents with Depression by Specialist Visits**
+Students who are not experiencing depression are not visiting a specialist. This is understandable because since they are not experiencing depression, there is no need for them to visit specialists.<br>
+From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
+
+
 
 **3. The rate of panic attack by specialists consultation.** <br>
-This report calculates the rate of panic attacks among students, categorized by the specialist consultant they consulted. I calculated the count of panic attacks by specialist consuktation.<br>
+This report calculates the rate of panic attacks among students, categorized by their specialist visits. I calculated the count of panic attacks by specialist consultation.<br> From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit any specialist. 
 
-**4. The count of panic attack by age.** <br>
-This analysis displays the count of students experiencing panic attacks, grouped by age. I calculated the count of panic attacks by age. I put the age on the X axis and put the panic attack count on the Y axis.<br>
 
 **5. Count of depression by age.** <br>
 This report shows the count of students experiencing depression, grouped by their age. I calculated the count of deprssion by age. I put age on the X axis, while I put the count of depression on te Y axis.<br>
