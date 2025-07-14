@@ -23,7 +23,7 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 **PowerBi**: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
 
 <h3>Features</h3> (I will get back to this later) <br> 
-1.Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
+**1.** Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
 2.Filter and Search: Easily filter data by date, product category, region, and more.<br>
 3.Sales Trends: Analyze sales trends over time to make informed decisions.<br>
 4.Customer Insights: Gain insights into customer behavior and demographics.<br>
@@ -31,7 +31,7 @@ For this project, I leveraged on a powerful tool in data analytics to guide my a
 6.Export Data: Download selected data for further analysis.
 
 
-<h3>The Analysis for Depression</h3><br>
+<h3>The Analysis and Insights for Depression</h3><br>
 
 **1. What is the Total Number of Students?** <br>
 This is an important KPI in this analysis and in getting the total number of students, I did a count of marital status column. This is because the dataset did not have a unique column. I believe that by counting the marital status column, I will get the total number of students which I did.
