@@ -124,7 +124,7 @@ In addition to this, the marking scheme of these courses should be reviewed. Mos
 
 **5.** Students who are in year 1, 2 and 3 experience mental health issues. The year 1 and 2 experience it more because they are new in the system. They are yet to adapt to the Univeristy manner of study since they are coming from secondary school. Those in year 3 are having mental issues because they are close to finishing their programs. There are many courses to do and many expectaions. Some of them are not on a good CGPA so they want to do well this time to be able to meetup while some have good CGPA but needs to work harder to maintain it before getting to year 4. In year 4, the count of students experiencing mental issues is very low. This is necause, in year 4, they have few courses to do so they can have enough timt to write their projects. Also, the courses in year 4 are not usually tough.
 
-**6.** CGPA
+**6.** CGPA....
 
   - The insights drawn from this analysis is that students who are unmarried are battling with depression more than students that are married. 16 married students are depressed while 85 unmarried students are depressed. From this insight, we can see that depression among students is not caused by married as just few married students are depressed.<br>
 <br> 
