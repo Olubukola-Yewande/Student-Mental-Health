@@ -10,13 +10,13 @@ This project is a 3 page dashboard which are grouped in pages(depression, panic 
 
 The objectives of this PowerBi project is to examine the mental health status of students. This PowerBi project aims at addressing questions like:<br>
 
-**1.** Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
-**2.** Could it be caused by their courses? Are some courses responsible for this?<br>
-**3.** Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
-**4.** Could it be Year of study? Does it mean that some certain level of studies are responsible for the mental health issues?<br>
-**5.** Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
-**6.** Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
-**7.** Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
+**1.**  Are students experiencing mental health breakdown? If they are, what are the causes of this? Could it be age? Does it mean that the older students expereince these mental health issues or the younger students do?<br>
+**2.**  Could it be caused by their courses? Are some courses responsible for this?<br>
+**3.**  Could it be their CGPA(curriculum grade performance assessment). Are these mental health issues related to some CGPA?<br>
+**4.**  Could it be Year of study? Does it mean that some certain level of studies are responsible for the mental health issues?<br>
+**5.**  Could it be marital status? Are married students experiencing more of these problems or the unmarried ones?<br>
+**6.**  Could it be based on their gender? Are females experiencing mental health breakdown than the males or are the males experiencing more mental health breakdown than the females?<br>
+**7.**  Lastly, are students who are experiencing these mental health issues visiting specilaists or not?<br>
 
 
 <h3>TOOLS USED</h3>
@@ -28,12 +28,12 @@ For this project, I leveraged on a powerful tools in data analytics to guide my 
 
 <h3>FEATURES</h3> (I will get back to this later) <br> 
 
-**1.** Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
-**2.** Filter and Search: Easily filter data by date, product category, region, and more.<br>
-**3.** Sales Trends: Analyze sales trends over time to make informed decisions.<br>
-**4.** Customer Insights: Gain insights into customer behavior and demographics.<br>
-**5.** Product Performance: Evaluate the performance of different product categories.<br>
-**6.** Export Data: Download selected data for further analysis.
+-  Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.<br>
+-  Filter and Search: Easily filter data by date, product category, region, and more.<br>
+-  Sales Trends: Analyze sales trends over time to make informed decisions.<br>
+-  Customer Insights: Gain insights into customer behavior and demographics.<br>
+-  Product Performance: Evaluate the performance of different product categories.<br>
+-  Export Data: Download selected data for further analysis.
 
 
 <h3>ANALYSIS AND INSIGHTS FOR DEPRESSION</h3><br>
@@ -60,7 +60,7 @@ There are over 20 courses in the dataset. The insights gotten from this is that 
 This means that students who are in Engineering and BCS department are experiencing higher depression rate compared to other courses.
 
 **6. Stduents with Depression by Specialist Visits**<br>
-Students who are not experiencing depression are not visiting a specialist. This is understandable because since they are not experiencing depression, there is no need for them to visit specialists.<br>
+Students who are **NOT** experiencing depression are not visiting a specialist. This is understandable because since they are not experiencing depression, there is no need for them to visit specialists.<br>
 From the depression count, those who have no depression did not visit specialists but for those who are experiencing depression, only a few of them visited specialists while a larger percentage of them did not visit seek specialist help. 
 
 <h3>ANALYSIS AND INSIGHTS FOR PANIC ATTACK</h3><br>
@@ -108,7 +108,7 @@ This report displays the count of students experiencing anxiety, grouped by the 
 Students in the age range of 20 to 22 have lower count of anxiety, while students who are 18 years have the highest count of anxiety, followed by 24, 19 and 21.
 
 **6 Students with Anxiety by Specialist Visits**<br>
-For students who do not have anxiety, a larger count of them did **NOT** visit a specialist while a smaller percentage visited a specialist. For students who have anxiety, a larger count of them did not visit a specialist while only small portion of them seeked for help.
+For students who do **NOT**  have anxiety, a larger count of them did not visit a specialist while a smaller percentage visited a specialist. For students who have anxiety, a larger count of them did not visit a specialist while only small portion of them seeked for help.
 
 <h3>RECOMMENDATIONS</h3><BR>
 
