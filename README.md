@@ -21,7 +21,7 @@ The objectives of this PowerBi project is to examine the mental health status of
 
 <h3>TOOLS USED</h3>
 
-For this project, I leveraged on a powerful tools in data analytics to guide my analysis: <br>
+For this project, I leveraged on powerful tools in data analytics to guide my analysis: <br>
 
 **Powerquery**: I used powerquery for data transformation, cleaning and manipulation. <br>
 **PowerBi**: I used this tool for data visualization. This tool makes it easy to cretae clear, informative, and visually compelling representation of data. <br>
@@ -112,19 +112,22 @@ For students who do **NOT**  have anxiety, a larger count of them did not visit 
 
 <h3>RECOMMENDATIONS</h3><BR>
 
-**1.** Before the analysis, one would think marriage will be responsible for depression because of the sacrifices that comes with it. However, unmarried students experienced depression more than the married students. For the 16 married students who are experiencing depression.... For year of study, year 1,2 and 3 are experiencing depression. The school should adopt measures to ease stress and help students who are experiencing depresion<br>
+**1.** Students who are 18 and 19 years of age are experiencing mental health issues. Most of them are in year 1 and 2 and they are new to the system. Some of them come with the fear of "University is tough". They put so much pressure on themselves and this can affect ones mental health. Students who are 23 and 24 are experiencing mental health as well. Most of them are in year 3. From our analysis, we can see that students in year 3 are having mental issues
 
 **2.** For courses, overall we can see from the insights that students who are offering the following courses: Engineering, BCS, BIT, and KOE are having mental health issues. The school should revise the course curriculums. Most times, the curriculums are usually rigid and this makes it a bit difficult for students. Also, Lecturers should adopt more friendly manner of teaching and patience.<br>
 The school should encourage library use and stock up the libraries with relevant materials to aid easy learning.
 In addition to this, the marking scheme of these courses should be reviewed. Most times, the marking schemes may be too rigid and this makes students work too hard to meet up while some do not meet up eventually.
 
-**3.** Overall, students who are having mental health issues are not seeking help. This can be out of fear or an act of not seeing the need to seek help. Many students may not know how serious mental health should be taken. Students should be encouraged to seek help from specialists. They should be educated on the need to priotize mental health and seek help when needed.
+**3.** CGPA
+**4.** Students who are in year 1, 2 and 3 experience mental health issues. The year 1 and 2 experience it more because they are new in the system. They are yet to adapt to the Univeristy manner of study since they are coming from secondary school. Those in year 3 are having mental issues because they are close to finishing their programs. There are many courses to do and many expectaions. Some of them are not on a good CGPA so they want to do well this time to be able to meetup while some have good CGPA but needs to work harder to maintain it before getting to year 4. In year 4, the count of students experiencing mental issues is very low. This is necause, in year 4, they have few courses to do so they can have enough timt to write their projects. Also, the courses in year 4 are not usually tough.
 
-**4.** Students who are 18 and 19 years of age are experiencing mental health issues. Most of them are in year 1 and 2 and they are new to the system. Some of them come with the fear of "University is tough". They put so much pressure on themselves and this can affect ones mental health. Students who are 23 and 24 are experiencing mental health as well. Most of them are in year 3. From our analysis, we can see that students in year 3 are having mental issues
+**5.** Before the analysis, one would think marriage will be responsible for depression because of the sacrifices that comes with it. However, unmarried students experienced depression more than the married students. For the 16 married students who are experiencing depression.... For year of study, year 1,2 and 3 are experiencing depression. The school should adopt measures to ease stress and help students who are experiencing depresion<br>
 
-**5.** Students who are in year 1, 2 and 3 experience mental health issues. The year 1 and 2 experience it more because they are new in the system. They are yet to adapt to the Univeristy manner of study since they are coming from secondary school. Those in year 3 are having mental issues because they are close to finishing their programs. There are many courses to do and many expectaions. Some of them are not on a good CGPA so they want to do well this time to be able to meetup while some have good CGPA but needs to work harder to maintain it before getting to year 4. In year 4, the count of students experiencing mental issues is very low. This is necause, in year 4, they have few courses to do so they can have enough timt to write their projects. Also, the courses in year 4 are not usually tough.
 
-**6.** CGPA....
+**6.** Gender
+
+**7** Overall, students who are having mental health issues are not seeking help. This can be out of fear or an act of not seeing the need to seek help. Many students may not know how serious mental health should be taken. Students should be encouraged to seek help from specialists. They should be educated on the need to priotize mental health and seek help when needed.
+
 
   - The insights drawn from this analysis is that students who are unmarried are battling with depression more than students that are married. 16 married students are depressed while 85 unmarried students are depressed. From this insight, we can see that depression among students is not caused by married as just few married students are depressed.<br>
 <br> 
